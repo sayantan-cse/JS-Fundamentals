@@ -48,7 +48,7 @@ function setDatas(newdata){
 
 getDatas();
 // setData({name:"jsb",age:"67"},getDatas);
-// setDatas({name:"jsb",age:"67"}).then(getDatas).catch(err=>console.log(err););
+// setDatas({name:"jsb",age:"67"}).then(getDatas).catch((err)=>console.log(err););
 
 // async ,await
 async function print(){
